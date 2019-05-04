@@ -8,7 +8,9 @@ Welcome to idsadmindocs's documentation!
 
 .. toctree::
    :maxdepth: 2
+
    hello
+   contents
 
 Indices and tables
 ==================
