@@ -6,17 +6,7 @@
 欢迎使用IdentityServer.Admin 中文文档!
 ========================================
 
+Contents:
 .. toctree::
    :maxdepth: 2
-
-   环境及数据库配置
-   客户端配置
-   服务端添加客户端
-   使用2FA进行双因素认证
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :glob:
